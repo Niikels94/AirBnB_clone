@@ -1,0 +1,1 @@
+The static Web page
